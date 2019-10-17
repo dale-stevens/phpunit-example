@@ -2,7 +2,5 @@
 	"require-dev": {
 		"phpunit/phpunit": "*",
 		"facebook/webdriver": "^1.7"
-	},
-	"require": {
 	}
 }
